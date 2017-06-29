@@ -168,6 +168,10 @@ section a {
   font-size: 18px;
   line-height: 1.2px;
   text-decoration: none;
+
+  overflow: visible;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 section a:hover {
@@ -184,6 +188,10 @@ cite {
   color: #006621;
   font-size: 14px;
   line-height: 16px;
+
+  overflow: visible;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .site-links a {
