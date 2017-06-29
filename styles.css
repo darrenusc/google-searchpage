@@ -186,6 +186,11 @@ cite {
   line-height: 16px;
 }
 
+.site-links a {
+  font-size: small;
+  line-height: 18px;
+}
+
 .ad {
   background-color: #fff;
   border: 1px solid #006621;
